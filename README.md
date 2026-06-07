@@ -1,2 +1,5 @@
 # web-335
-WEB 335 Intro to NoSQL Repository
+## Contributors
+
+* Richard Krasso
+* Boyd Vigness
