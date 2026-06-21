@@ -1,0 +1,55 @@
+{
+  "viewers": [
+    {
+      "_id": "V1",
+      "firstName": "Joe",
+      "lastName": "Johnson",
+      "ratings": [
+        {
+          "_id": "R1",
+          "ratingScore": 5,
+          "movieId": "M1"
+        },
+        {
+          "_id": "R2",
+          "ratingScore": 4,
+          "movieId": "M2"
+        }
+      ]
+    },
+    {
+      "_id": "V2",
+      "firstName": "Paul",
+      "lastName": "George",
+      "ratings": [
+        {
+          "_id": "R3",
+          "ratingScore": 5,
+          "movieId": "M2"
+        },
+        {
+          "_id": "R4",
+          "ratingScore": 3,
+          "movieId": "M3"
+        }
+      ]
+    }
+  ],
+  "movies": [
+    {
+      "_id": "M1",
+      "movieName": "Star Wars",
+      "genre": "Science Fiction"
+    },
+    {
+      "_id": "M2",
+      "movieName": "Spiderman",
+      "genre": "Superhero"
+    },
+    {
+      "_id": "M3",
+      "movieName": "Lord of the Rings",
+      "genre": "Fantasy"
+    }
+  ]
+}
