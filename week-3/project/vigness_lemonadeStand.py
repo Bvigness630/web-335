@@ -1,6 +1,6 @@
 """
 Author: Boyd Vigness
-Date: September 2025
+Date: 6/21/2026
 File Name: Vigness_lemonadeStand.py
 Description: This program simulates a lemonade stand by calculating total
 profit made by subtracting the costs from the earnings.
