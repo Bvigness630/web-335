@@ -1,0 +1,39 @@
+{
+  "user": {
+    "_id": "U1",
+    "firstName": "Tre",
+    "lastName": "Johnson",
+    "devices": [
+      {
+        "_id": "D1",
+        "deviceName": "iPhone 17",
+        "deviceType": "Smartphone",
+        "charger_id": "C1"
+      },
+      {
+        "_id": "D2",
+        "deviceName": "iPad Pro",
+        "deviceType": "Tablet",
+        "charger_id": "C1"
+      },
+      {
+        "_id": "D3",
+        "deviceName": "Samsung Galaxy S26",
+        "deviceType": "Smartphone",
+        "charger_id": "C2"
+      }
+    ]
+  },
+  "chargers": [
+    {
+      "_id": "C1",
+      "chargerType": "USB-C",
+      "voltage": "20V"
+    },
+    {
+      "_id": "C2",
+      "chargerType": "USB-C Fast Charger",
+      "voltage": "25V"
+    }
+  ]
+}
